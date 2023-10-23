@@ -14,3 +14,4 @@ A simple command-line application to generate SVG logos.
 4. Run `npm i jest`
 5. Run `node index.js`.
 6. Follow the prompts to generate your logo.
+![logo](https://github.com/jdgiancola/LOGOgen/assets/135674863/23bb2105-2421-433d-bad1-042784f7109a)
